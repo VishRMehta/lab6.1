@@ -1,5 +1,5 @@
 class test {
 	public static void main(String[] args) {
-		System.out.println("Hello World, I am merging.");
+		System.out.println("Hello World, I am in another branch.");
 	}
 }
